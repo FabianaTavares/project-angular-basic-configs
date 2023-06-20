@@ -1,4 +1,8 @@
-# ProjectsAngularBasicConfigs
+# Projects Angular Basic Configs
+
+![GitHub Workflow Status](https://github.com/FabianaTavares/project-angular-basic-configs/workflows/Gerador%20de%20CHANGELOG/badge.svg)
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/FabianaTavares/project-angular-basic-configs?color=blue)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 

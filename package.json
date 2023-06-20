@@ -51,5 +51,8 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "repository": {
+    "url": "git@github.com:FabianaTavares/project-angular-basic-configs.git"
   }
 }
